@@ -1,0 +1,18 @@
+1.FUNCTIONALITY
+ 
+STEPS LIST (Draggable & Nestable)
+ Main Problem: "Make a calculator"
+     Step 1: Create UI
+         Sub-step: "Design layout"
+         Sub-step: "Add buttons"
+     Step 2: Handle calculations
+         Sub-step: "Implement addition"
+         Sub-step: "Handle division by zero"
+
+ Drag to rearrange steps
+ Add sub-steps under each step
+ Auto-save to LocalStorage
+
+ Checkboxes or a toggle next to each step
+ A progress indicator (e.g., “3/5 steps completed”)
+ hide completed option for better focus

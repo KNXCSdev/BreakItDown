@@ -1,0 +1,26 @@
+Header:
+ BreakItDown – Solve coding problems step by step
+
+Subheading:
+Stuck on a big coding problem? Break it into smaller steps, tackle them one by one, and get unstuck.
+
+Main Input Placeholder:
+ "Describe your problem here..."
+
+Button Texts:
+Add Step →  "Add a new step"
+
+Add Sub-Step → "Break this step down further"
+
+Rearrange Steps → "Drag to reorder"
+
+Clear Steps → "Start over"
+
+Save Progress (if manual save is needed) →  "Save your breakdown"
+
+Tooltip/Helper Text 
+ "Tip: Break each step into the smallest possible action."
+
+ "Rearrange steps by dragging them."
+
+ "Your breakdown is saved automatically."
