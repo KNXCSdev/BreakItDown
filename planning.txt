@@ -16,3 +16,17 @@ STEPS LIST (Draggable & Nestable)
  Checkboxes or a toggle next to each step
  A progress indicator (e.g., “3/5 steps completed”)
  hide completed option for better focus
+Dark Mode 
+Export to Markdown/JSON 
+Collapsible Steps 
+Templates – Pre-built breakdowns for common problems (e.g., "Build a CRUD app") MAYBE
+
+📝 Step Descriptions & Notes – Let users add explanations, links, or code snippets to each step.
+📅 Due Dates & Reminders – Set deadlines for each step and get reminders.
+📌 Priority Levels – Mark steps as High/Medium/Low priority.
+🔗 Collaboration Mode – Share a breakdown with teammates (later feature).
+📂 Folders & Tags – Organize different breakdowns by project or topic.
+🔄 Version History – Undo changes or revert to an earlier version.
+🖼 Visual Mode – Option to view the breakdown as a mind map or flowchart.
+🔄 Sync Across Devices – Instead of just Local Storage, use a cloud sync (e.g., Firebase/Supabase).
+📊 Analytics – See stats like "Average steps per breakdown" or "Most common problem types."
