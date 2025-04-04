@@ -14,7 +14,7 @@ input:focus,
 button:focus,
 textarea:focus,
 select:focus {
-  outline: 2px solid var(--color-teal-600);
+  outline: 2px solid var(--color-blue-600);
   outline-offset: -1px;
 }
 

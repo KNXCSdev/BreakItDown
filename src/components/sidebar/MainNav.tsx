@@ -17,7 +17,7 @@ export default function MainNav() {
         <li>
           <MainNavLink link="/app">
             <HiOutlineExclamationTriangle
-              className={`h-[2.6rem] w-[2.6rem] ${location.pathname === "/app" ? "text-teal-800" : "text-gray-400"}`}
+              className={`h-[2.6rem] w-[2.6rem] ${location.pathname === "/app" ? "text-blue-600" : "text-gray-400"}`}
             />
             <span>Coding Problems</span>
           </MainNavLink>
@@ -25,7 +25,7 @@ export default function MainNav() {
         <li>
           <MainNavLink link="/archives">
             <HiOutlineArchiveBox
-              className={`h-[2.6rem] w-[2.6rem] ${location.pathname === "/archives" ? "text-teal-800" : "text-gray-400"}`}
+              className={`h-[2.6rem] w-[2.6rem] ${location.pathname === "/archives" ? "text-blue-600" : "text-gray-400"}`}
             />
             <span>Archives</span>
           </MainNavLink>
@@ -33,7 +33,7 @@ export default function MainNav() {
         <li>
           <MainNavLink link="/about">
             <HiOutlineClipboardDocumentList
-              className={`h-[2.6rem] w-[2.6rem] ${location.pathname === "/about" ? "text-teal-800" : "text-gray-400"}`}
+              className={`h-[2.6rem] w-[2.6rem] ${location.pathname === "/about" ? "text-blue-600" : "text-gray-400"}`}
             />
             <span>About</span>
           </MainNavLink>
@@ -41,7 +41,7 @@ export default function MainNav() {
         <li>
           <MainNavLink link="/how-it-works">
             <HiOutlineWrenchScrewdriver
-              className={`h-[2.6rem] w-[2.6rem] ${location.pathname === "/how-it-works" ? "text-teal-800" : "text-gray-400"}`}
+              className={`h-[2.6rem] w-[2.6rem] ${location.pathname === "/how-it-works" ? "text-blue-600" : "text-gray-400"}`}
             />
             <span>How it works</span>
           </MainNavLink>
