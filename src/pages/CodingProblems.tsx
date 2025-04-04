@@ -5,7 +5,7 @@ import SortArea from "../ui/SortArea";
 export default function CodingProblems() {
   return (
     <>
-      <div className="mx-auto max-w-[120rem]">
+      <div className="mx-auto w-full max-w-[120rem]">
         <Header />
         <SortArea />
       </div>
