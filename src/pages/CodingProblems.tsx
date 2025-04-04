@@ -1,15 +1,14 @@
-import Table from "../components/coding-problems/Table";
+import ProblemsList from "../components/coding-problems/ProblemsList";
 import Header from "../components/header/Header";
-import SortArea from "../ui/SortArea";
 
 export default function CodingProblems() {
   return (
     <>
-      <div className="mx-auto w-full max-w-[120rem]">
+      <div className="flex w-full flex-col gap-20">
         <Header />
-        <SortArea />
+        <hr className="text-gray-200" />
+        <ProblemsList />
       </div>
-      <Table />
     </>
   );
 }

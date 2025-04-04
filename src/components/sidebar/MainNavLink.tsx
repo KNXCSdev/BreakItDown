@@ -10,8 +10,8 @@ export default function MainNavLink({ children, link }: MainNavLinkProps) {
     <NavLink
       to={link}
       className={({ isActive }) =>
-        `flex items-center gap-[1.2rem] rounded-xl px-[2.4rem] py-[1.2rem] text-[1.6rem] font-medium transition hover:bg-teal-50 hover:text-teal-900 ${
-          isActive ? "bg-teal-50 text-teal-900" : "text-gray-600"
+        `flex items-center gap-[1.2rem] rounded-xl px-[2.4rem] py-[1.2rem] text-[1.6rem] font-medium transition hover:bg-blue-50 hover:text-blue-900 ${
+          isActive ? "bg-blue-50 text-blue-900" : "text-gray-600"
         }`
       }
     >
